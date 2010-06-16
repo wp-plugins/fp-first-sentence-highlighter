@@ -1,6 +1,6 @@
 === Simple First Sentence Highlighter ===
 Contributors: Joss1
-Tags: CSS, excerpt, content, formatting, highlight, page, post, style, template tag, text,
+Tags: highlight
 Requires at least: 2.0.2
 Tested up to: 2.8.2
 Stable tag: 1.1
