@@ -5,21 +5,13 @@ Requires at least: 2.0.2
 Tested up to: 2.8.2
 Stable tag: 1.1
 
-Adds a new Template Tag that highlights the first sentence in a string with a specified CSS style.
-
-* NB: This plugin is no longer supported and has several bugs.
+Highlight the first sentence in a string with a specified CSS style. (Plugin no longer supported)
 
 == Description ==
 
-This plugin adds a new Template Tag **`fp_firstsentence( $str , $style , $br )`**, which highlights the first sentence in a string/content ($str) with a specified CSS style ($style) - for example: "font-size:14.5px;font-weight:bold;color:#990000;".
+* NB: This plugin is no longer supported.
 
-For example, you can use this to add emphasis to the first sentence of a post in your theme without actually specifying it in the post editor, thus the post will display as normal on its single page.
-
-Places where this function comes in handy:
-
-* To add emphasis to each entry in an archive list.
-* To create a Newspaper/Magazine-style lead-in on a featured post on the front page.
-* To highlight the first sentence of posts in a certain category (i.e. Featured) when browsing archives.
+Adds a new Template Tag **`fp_firstsentence( $str , $style , $br )`**, which highlights the first sentence in a string/content ($str) with a specified CSS style ($style) - for example: "font-size:14.5px;font-weight:bold;color:#990000;".
 
 NB: By default, $br = 1, meaning that the function will preserve line/paragraph breaks in the content. You can optionally specify $br = 0 to have the function echo a block of text with no breaks.
 
@@ -39,7 +31,7 @@ N/A
 
 == Screenshots ==
 
-1. Screenshots to be added by mid-August.
+N/A
 
 == Changelog ==
 
